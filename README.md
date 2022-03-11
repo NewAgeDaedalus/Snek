@@ -1,5 +1,5 @@
 # Snek
 primitive snake game using opengl
 
-#Dependenicies
+# Dependenicies
 -SFML
